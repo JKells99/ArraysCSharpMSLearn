@@ -1,0 +1,14 @@
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\bin\Debug\net7.0\ArraysCSharpMSLearn.exe
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\bin\Debug\net7.0\ArraysCSharpMSLearn.deps.json
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\bin\Debug\net7.0\ArraysCSharpMSLearn.runtimeconfig.json
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\bin\Debug\net7.0\ArraysCSharpMSLearn.dll
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\bin\Debug\net7.0\ArraysCSharpMSLearn.pdb
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\obj\Debug\net7.0\ArraysCSharpMSLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\obj\Debug\net7.0\ArraysCSharpMSLearn.AssemblyInfoInputs.cache
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\obj\Debug\net7.0\ArraysCSharpMSLearn.AssemblyInfo.cs
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\obj\Debug\net7.0\ArraysCSharpMSLearn.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\obj\Debug\net7.0\ArraysCSharpMSLearn.dll
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\obj\Debug\net7.0\refint\ArraysCSharpMSLearn.dll
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\obj\Debug\net7.0\ArraysCSharpMSLearn.pdb
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\obj\Debug\net7.0\ArraysCSharpMSLearn.genruntimeconfig.cache
+C:\Users\Jordan\Desktop\C#ArraysChallenge\ArraysCSharpMSLearn\obj\Debug\net7.0\ref\ArraysCSharpMSLearn.dll
